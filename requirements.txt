@@ -1,0 +1,6 @@
+langchain_community==0.2.4
+grpcio==1.64.1
+yandexcloud==0.293.0
+faiss-cpu==1.8.0
+fastapi==0.111.0
+gradio==4.36.1
